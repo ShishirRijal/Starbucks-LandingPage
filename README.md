@@ -1,6 +1,9 @@
 # starbucks_landing_page
 ### Landing page for Starbucks build with flutter.
 
+It is a conceptual landing page for Starbucks which is built with Flutter. 
+The website or say the page is made responsive for all practical devices and has different looks/configuration for mobile, tablet and the laptops or say the big screen devices.
+
 ## Snaps
 ### Desktop 
 ![desktop](https://user-images.githubusercontent.com/63596895/179342884-a313ad0e-be48-4d23-84a9-59a7846af1f1.png)
